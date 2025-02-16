@@ -1,0 +1,23 @@
+{
+  "users":
+          [
+            {
+              "DisplayName" : "Shivani Patel",
+              "EmailAddress" : "shivanipatel@gmail.com",
+              "Username": "shivani",
+              "Password": "123"
+            },
+            {
+              "DisplayName" : "shivani",
+              "EmailAddress" : "shivanipatel03@gmail.com",
+              "Username": "shivani03",
+              "Password": "1234"
+            },
+            {
+              "DisplayName" : "Patel",
+              "EmailAddress" : "shivanipatel31@gmail.com",
+              "Username": "shivani31",
+              "Password": "12345"
+            }
+          ]
+}
